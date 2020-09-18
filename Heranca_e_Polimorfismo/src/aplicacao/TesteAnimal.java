@@ -13,8 +13,8 @@ public class TesteAnimal {
 		Scanner leia = new Scanner(System.in);
 				
 		Cachorro cachorro = new Cachorro("Belinha" , 7 , "Latido", "Corre");
-		Cavalo cavalo = new Cavalo ("Pé de Pano", 5 , "cavalga", "Trota");
-		Preguica preguica = new Preguica ("Sid" , 15 , "shshshs", "Sobe me Árvore");
+		Cavalo cavalo = new Cavalo ("Pé de Pano", 5 , "relicho", "Trota");
+		Preguica preguica = new Preguica ("Sid" , 15 , "shshshs", "Sobe em Árvore");
 		
 	cachorro.exibir();
 	cavalo.exibir();
